@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\bin\Debug\net10.0\Exercice1.exe
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\bin\Debug\net10.0\Exercice1.deps.json
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\bin\Debug\net10.0\Exercice1.runtimeconfig.json
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\bin\Debug\net10.0\Exercice1.dll
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\bin\Debug\net10.0\Exercice1.pdb
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\obj\Debug\net10.0\Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\obj\Debug\net10.0\Exercice1.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\obj\Debug\net10.0\Exercice1.AssemblyInfo.cs
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\obj\Debug\net10.0\Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\obj\Debug\net10.0\Exercice1.dll
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\obj\Debug\net10.0\refint\Exercice1.dll
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\obj\Debug\net10.0\Exercice1.pdb
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\obj\Debug\net10.0\Exercice1.genruntimeconfig.cache
+C:\Users\pc\Desktop\TP-CSharp\Exercice1\obj\Debug\net10.0\ref\Exercice1.dll
