@@ -1,0 +1,8 @@
+Game 1: victory in 13 turns
+Game 1: ran away
+Game 2: ran away
+Game 1: victory in 16 turns
+Game 2: defeat
+Game 1: victory in 15 turns
+Game 2: defeat
+Game 3: ran away
